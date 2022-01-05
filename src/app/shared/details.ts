@@ -3,7 +3,7 @@ import { Detail } from './detail';
 export const DETAILS: Detail =
 {
     name: 'Akshay Chavan',
-    image: '../assets/images/profile.JPG',
+    image: '../assets/images/profile_gdc.png',      // '../assets/images/profile.JPG'
     summary: [
         'I\'m a software developer and a technology enthusiast currently working as a Full-Stack Developer at Quantiphi Analytics. I\'ve 2+ years of experience in professional software development which includes Web Application development using technologies such as Angular, React, Node, Javascript, and Typescript; and Mobile Application development using Android. I love what I do and enjoy my work to the fullest. For me, coding for a problem statement is like solving puzzles which I never get bored of :D',
         'I believe in creating a quality environment for me and the people around me, as this leads our mind to work efficiently and find solutions to our issues.',
