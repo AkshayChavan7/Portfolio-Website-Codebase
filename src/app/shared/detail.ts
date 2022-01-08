@@ -21,6 +21,7 @@ export class Detail {
     githubusername: string;
     buymecoffee: string;
     twitter: string;
+    instagram: string;
     quora: string;
     linkdin: string;
     workExperience : workExperience[];

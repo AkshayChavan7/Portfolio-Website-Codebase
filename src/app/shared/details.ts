@@ -78,6 +78,7 @@ export const DETAILS: Detail =
     github: 'https://github.com/AkshayChavan7',
     githubusername: 'AkshayChavan7',
     buymecoffee: 'https://paytm.me/tg-w6uF',
+    instagram: 'https://www.instagram.com/_akshaychavan_7/',
     twitter: 'https://twitter.com/Aksh_ayC7',
     quora: 'https://www.quora.com/profile/Akshay-Chavan-187',
     linkdin: 'https://www.linkedin.com/in/akshaychavan7/',
@@ -272,17 +273,17 @@ export const DETAILS: Detail =
         },
         {
             name: 'Instagram',
-            link: ''
+            link: 'https://www.instagram.com/_akshaychavan_7/'
         },
     ],
     cpprofile: [
-        // {
-        //     name: 'CodeChef',
-        //     link: 'https://www.codechef.com/users/'
-        // },
         {
             name: 'HackerRank',
             link: 'https://www.hackerrank.com/Chavan_Akshay_S?hr_r=1'
+        },
+        {
+            name: 'Leetcode',
+            link: 'https://leetcode.com/akshaychavan7/'
         }
         // ,
         // {
