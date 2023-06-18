@@ -5,9 +5,9 @@ export const DETAILS: Detail =
     name: 'Akshay Chavan',
     image: '../assets/images/profile_gdc.png',      // '../assets/images/profile.JPG'
     summary: [
-        'I\'m a software developer and a technology enthusiast currently working as a Full-Stack Developer at Quantiphi Analytics. I\'ve 2+ years of experience in professional software development which includes Web Application development using technologies such as Angular, React, Node, Javascript, and Typescript; and Mobile Application development using Android. I love what I do and enjoy my work to the fullest. For me, coding for a problem statement is like solving puzzles which I never get bored of :D',
-        'I believe in creating a quality environment for me and the people around me, as this leads our mind to work efficiently and find solutions to our issues.',
-        'I would love to collaborate with the development communities.'
+        "Hi, there!👋 Welcome to my world of software development and exploration. I'm Akshay Chavan, a passionate Full-Stack Engineer at PriceLabs. With over 4 years of experience in the industry, I've had the opportunity to dive into a diverse range of tech stacks, from MEAN and MERN to Ruby on Rails, and even Android app development using Java. For me, coding is more than just a job – it's a thrilling puzzle-solving adventure that never gets old. I find joy in unraveling complex problem statements and crafting elegant solutions. But my love for exploration doesn't stop there. I believe in creating an environment where creativity flourishes, fostering efficiency and innovation.",
+        "Beyond the realms of programming, I embrace an active and adventurous lifestyle. You'll often find me embarking on exhilarating treks, exploring new destinations, and engaging in various sports, ranging from the intensity of cricket and volleyball to the strategic depth of chess.",
+        "Join me on this journey as I share my projects, insights, and experiences, celebrating the beauty of technology and its impact on our lives. Let's connect, innovate, and create together!"
     ],
     banner: 'You will be happy to know that I have completed over 20+ projects successfully!',
     skills: [
