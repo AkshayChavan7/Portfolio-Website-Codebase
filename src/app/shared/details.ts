@@ -80,55 +80,65 @@ export const DETAILS: Detail = {
   quora: "https://www.quora.com/profile/Akshay-Chavan-187",
   linkdin: "https://www.linkedin.com/in/akshaychavan7/",
   workExperience: [
+    /**
+     *
+
+     */
+    {
+      company: "PriceLabs",
+      role: "Full Stack Engineer, Full Time",
+      duration: "October 2022 - August 2023",
+      summary: [
+        {
+          summaryline:
+            "Elevated the efficiency of the dynamic pricing strategy by 25% by streamlining workflow, leading to a 40% reduction in UI interactions and an 8% boost in customer satisfaction.",
+        },
+        {
+          summaryline:
+            "Successfully integrated Zoho SalesIQ chat, gathering user data and using logged-in user context to pre-fill ticket data, enabling 20% faster ticket handling.",
+        },
+        {
+          summaryline:
+            "Engineered an automated localization process, eradicating the need for manual intervention, resulting in a 100% reduction in errors and a significant reduction in the turnaround time.",
+        },
+        {
+          summaryline:
+            "Flourished in an Agile environment, executing tasks within dynamic sprints and collaborating within diverse team setups, such as Squads.",
+        },
+        {
+          summaryline:
+            "Contributed significantly to expanding the developer team by actively participating in the interviewing process and offering valuable support.",
+        },
+        {
+          summaryline:
+            "Secured first place in the PriceLabs hackathon with the project \"TicketMinder,\" where we created an innovative Ticket Answering System utilizing historical data from the PriceLabs CRM system. Leveraging chatGPT's generative AI capabilities, we optimized data retrieval for user queries, resulting in a highly relevant and efficient system. Additionally, developed a user-friendly full-stack web application to seamlessly integrate the tool into PriceLabs' work environment, contributing to its ongoing success.",
+        },
+        {
+          summaryline:
+            "Technologies: Ruby on Rails, Javascript, React.js, Ruby, jQuery, Bootstrap, MySQL, Redis, Minitest, JEST Testing, Git, Bitbucket, REST APIs",
+        },
+      ],
+    },
     {
       company: "Quantiphi Analytics",
       role: "Full-Stack Developer | Applied AI, Full Time",
-      duration: "July 2021 - Present",
+      duration: "July 2021 - October 2022",
       summary: [
         {
           summaryline:
-            "Developed an end to end coordinated software product leveraging ML to detect defects and misalignments in the construction process so that it can assist field technicians to work faster in risk mitigation process while improving the overall time and cost.",
+            "Conceptualized and built a comprehensive software solution powered by machine learning, achieving a 90% detection rate for construction defects, cutting field technician risk mitigation time by 30%, and saving $50,000 per project.",
         },
         {
           summaryline:
-            "Coordinated with Google Team for leveraging Google Cloud Platform(GCP) for the development of ML model using Vertex AI and the deployment of the software application over GCP cloud.",
+            "Developed machine learning integrated Web and Android apps for speech analytics, KPI forecasting, and real-time agent feedback, fully automating customer service calls across multiple businesses, slashing operational costs by 70%.",
         },
         {
           summaryline:
-            "Technologies: GCP, Angular, Node, Javascript/Typescript, HTML, CSS, jQuery, Android, Python, Java, Firestore, Git.",
-        },
-      ],
-    },
-    {
-      company: "Computational Biology Department, Carnegie Mellon University",
-      role: "Research Intern, Part Time",
-      duration: "September 2021 - Present",
-      summary: [
-        {
-          summaryline: "Optimized source code for lab's webpages.",
+            "Designed and executed a robust transactional mechanism for seamless data synchronization between Firestore and MySQL databases, achieving a 98% reduction in data sync errors and boosting application reliability by 30%.",
         },
         {
           summaryline:
-            "Currently, I am working on the intriguing area of building machine learning models for predicting and modeling biological cellular systems.",
-        },
-      ],
-    },
-    {
-      company: "The Sparks Foundation",
-      role: "Mobile Application Development Intern, Part Time",
-      duration: "November 2021 - December 2021",
-      summary: [
-        {
-          summaryline:
-            "Developed an Android for Banking System with SQLite as a backend database.",
-        },
-        {
-          summaryline:
-            "Integrated social media such as Google and Facebook for app sign-in and authentication.",
-        },
-        {
-          summaryline:
-            "Technologies: Android, Java, SQLite, DB Browser for SQLite, Git, Google SDK, Facebook SDK.",
+            "Technologies: React, Angular, Node.js, Typescript, Express.js, Android, Java, Redis, Firestore, MongoDB, Google Cloud Platform, Git",
         },
       ],
     },
@@ -139,15 +149,65 @@ export const DETAILS: Detail = {
       summary: [
         {
           summaryline:
-            "Developed multiple structured and trading platform products that are actively used in financial industry by thousands of bankers across multiple countries.",
+            "Spearheaded the design and implementation of high-performance structured trading applications for leading banks in Asia, including Bank of China and UBS, contributing to a monthly revenue of over $1 million.",
         },
         {
           summaryline:
-            "Contributed in the optimization of code and backend procedures for several software products being developed in FinIQ's development environment.",
+            "Revamped backend processes and optimized code for multiple software products, resulting in a remarkable 15% performance boost and a 20% reduction in maintenance overhead.",
         },
         {
           summaryline:
-            "Technologies: Angular, Node, Javascript/Typescript, HTML, CSS, jQuery, Android, Python, Java, SQL, Git.",
+            "Implemented a robust CI/CD pipeline for a large-scale web app, reducing deployment time by 80% and enhancing release reliability through rigorous testing.",
+        },
+        {
+          summaryline:
+            "Technologies: Angular, NodeJS, Typescript, Javascript, Express.js, Android, Java, MySQL, Git, Bitbucket, Postman",
+        },
+      ],
+    },
+    {
+      company: "Computational Biology Department, Carnegie Mellon University",
+      role: "Research Intern, Part Time",
+      duration: "September 2020 - January 2021",
+      summary: [
+        {
+          summaryline:
+            "Conducted research on optimizing preprocessing pipelines for Cryo-EM images using state-of-the-art deep learning architectures including VGG-16, ResNet, and Vision Transformers, resulting in a 5% improvement in feature extraction and classification accuracy compared to previous methods.",
+        },
+        {
+          summaryline:
+            "Restructured the Xu Labs website, streamlining its architecture for improved user experience and accessibility.",
+        },
+        {
+          summaryline:
+            "Collaborated effectively with esteemed professors and fellow team members, fostering a dynamic environment conducive to knowledge exchange and teamwork.",
+        },
+        {
+          summaryline:
+            "Technologies: Python, Deep Learning, Scikit-Learn, TensorFlow, Google Cloud Platform (GCP), GitHub",
+        },
+      ],
+    },
+    {
+      company: "The Sparks Foundation",
+      role: "Mobile Application Development Intern, Part Time",
+      duration: "November 2021 - December 2021",
+      summary: [
+        {
+          summaryline:
+            "Successfully designed and developed mobile applications utilizing Android, DBBrowser, and SQLite, effectively meeting project requirements and achieving assigned tasks.",
+        },
+        {
+          summaryline:
+            "Played a key role in supporting fellow interns by addressing their task-related queries and offering technical implementation guidance. This collaborative effort significantly contributed to team productivity and a positive working environment.",
+        },
+        {
+          summaryline:
+            "Created detailed video demonstrations showcasing the functionality and features of the developed applications. These videos serve as comprehensive documentation and can be accessed for a closer look at the applications' capabilities: 1. Banking Application 2. Authentication using Social Platforms",
+        },
+        {
+          summaryline:
+            "Technologies: Android, Java, SQLite, DB Browser for SQLite, Git, Google SDK, Facebook SDK.",
         },
       ],
     },
@@ -158,15 +218,19 @@ export const DETAILS: Detail = {
       summary: [
         {
           summaryline:
-            "Learnt various development technologies used in FinIQ's product development such as HTML, CSS, Javascript, Angular, Node, C# .Net.",
+            "Spearheaded the design and implementation of high-performance structured trading applications for leading banks in Asia, including Bank of China and UBS, contributing to a monthly revenue of over $1 million.",
         },
         {
           summaryline:
-            "Also, used the same technologies to build various mini projects.",
+            "Optimized code and streamlined backend procedures for multiple software products within FinIQ's development environment, yielding a remarkable 15% boost in product performance coupled with a 20% reduction in maintenance time.",
         },
         {
           summaryline:
-            "Contributed in the development of various structured products.",
+            "Established a CI/CD pipeline for a large-scale web application, slashing deployment time by 80% and elevating software release reliability. Employed rigorous code reviews, load/stress testing, and diverse testing frameworks to ensure impeccable software delivery.",
+        },
+        {
+          summaryline:
+            "Technologies: Python, Angular 8, Node.js, Android, TypeScript, JavaScript, Cascading Style Sheets (CSS), Java, Git, HTML",
         },
       ],
     },
@@ -177,11 +241,7 @@ export const DETAILS: Detail = {
       summary: [
         {
           summaryline:
-            "Did certification course of RedHat Certified System Administrator (RHCSA).",
-        },
-        {
-          summaryline:
-            "During the course period, learnt various Linux command, operating procedures and Linux kernel systems.",
+            "Interned at International Routing Technologies and successfully completed the RedHat Certified System Administrator (RHCSA) certification course. Acquired proficiency in Linux commands, operating procedures, and Linux kernel systems during the internship period.",
         },
       ],
     },
