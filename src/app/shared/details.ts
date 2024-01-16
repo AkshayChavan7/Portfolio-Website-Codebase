@@ -2,7 +2,8 @@ import { Detail } from "./detail";
 
 export const DETAILS: Detail = {
   name: "Akshay Chavan",
-  image: "../assets/images/profile photo.png", // '../assets/images/profile.JPG'
+  image:
+    "https://raw.githubusercontent.com/akshaychavan7/Portfolio-Website-Codebase/main/src/assets/images/profile%20photo.png", // '../assets/images/profile.JPG'
   summary: [
     "Hi, there!👋 Welcome to my world of software development and exploration. I'm Akshay Chavan, a passionate Full-Stack Engineer at PriceLabs. With over 4 years of experience in the industry, I've had the opportunity to dive into a diverse range of tech stacks, from MEAN and MERN to Ruby on Rails, and even Android app development using Java. For me, coding is more than just a job – it's a thrilling puzzle-solving adventure that never gets old. I find joy in unraveling complex problem statements and crafting elegant solutions. But my love for exploration doesn't stop there. I believe in creating an environment where creativity flourishes, fostering efficiency and innovation.",
     "Beyond the realms of programming, I embrace an active and adventurous lifestyle. You'll often find me embarking on exhilarating treks, exploring new destinations, and engaging in various sports, ranging from the intensity of cricket and volleyball to the strategic depth of chess.",
