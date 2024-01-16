@@ -2,8 +2,7 @@ import { Detail } from "./detail";
 
 export const DETAILS: Detail = {
   name: "Akshay Chavan",
-  image:
-    "https://raw.githubusercontent.com/akshaychavan7/Portfolio-Website-Codebase/main/src./assets/images/profile%20photo.png", // '.../assets/images/profile.JPG'
+  image: "./assets/images/profile photo.png", // './assets/images/profile.JPG'
   summary: [
     "Hi, there!👋 Welcome to my world of software development and exploration. I'm Akshay Chavan, a passionate Full-Stack Engineer at PriceLabs. With over 4 years of experience in the industry, I've had the opportunity to dive into a diverse range of tech stacks, from MEAN and MERN to Ruby on Rails, and even Android app development using Java. For me, coding is more than just a job – it's a thrilling puzzle-solving adventure that never gets old. I find joy in unraveling complex problem statements and crafting elegant solutions. But my love for exploration doesn't stop there. I believe in creating an environment where creativity flourishes, fostering efficiency and innovation.",
     "Beyond the realms of programming, I embrace an active and adventurous lifestyle. You'll often find me embarking on exhilarating treks, exploring new destinations, and engaging in various sports, ranging from the intensity of cricket and volleyball to the strategic depth of chess.",
@@ -382,7 +381,7 @@ export const DETAILS: Detail = {
   androiddevproject: [
     {
       projectname: "vaxicov",
-      image: ".../assets/images/vaxicov.png",
+      image: "./assets/images/vaxicov.png",
       summary:
         "An Android app for checking the availability of Covid19 vaccination slots and setting notification for  appointment booking.",
       preview:
@@ -404,7 +403,7 @@ export const DETAILS: Detail = {
     },
     {
       projectname: "Banking App",
-      image: ".../assets/images/banking_app.png",
+      image: "./assets/images/banking_app.png",
       summary:
         "An Android app for implementing a simple Banking System with SQLite database along with Google and Facebook sign-in integration for authentication.",
       preview: "https://github.com/AkshayChavan7/Banking-App",
@@ -428,7 +427,7 @@ export const DETAILS: Detail = {
     },
     {
       projectname: "Tic-Tac-Toe Game",
-      image: ".../assets/images/tictactoe.jpg",
+      image: "./assets/images/tictactoe.jpg",
       summary:
         "A fun game of tictactoe with two modes - 1. vs Player 2. vs Computer. It's my first try in the android development and a just for fun app. ",
       preview: "https://github.com/AkshayChavan7/Tic-Tac-Toe",
@@ -443,7 +442,7 @@ export const DETAILS: Detail = {
     },
     {
       projectname: "IOT based Color Changing Bulb",
-      image: ".../assets/images/colorchangingbulb.jpg",
+      image: "./assets/images/colorchangingbulb.jpg",
       summary:
         "IOT based project to control the color of a light bulb  with the input from android application. It was a part of our IOT project with the idea of home automation.",
       preview: "https://github.com/AkshayChavan7/COLOR-CHANGING-BULB",
@@ -463,7 +462,7 @@ export const DETAILS: Detail = {
   softwaredevproject: [
     {
       projectname: "Portable Antivirus System",
-      image: ".../assets/images/portableantivirussystem.png",
+      image: "./assets/images/portableantivirussystem.png",
       summary:
         "An antivirus system which can be kept in any kind of external drive and that portable device can be connected to the computer system using which we can perform scan on that computer system.",
       preview: "https://github.com/AkshayChavan7/PORTABLE-ANTIVIRUS-SYSTEM",
@@ -478,7 +477,7 @@ export const DETAILS: Detail = {
     },
     {
       projectname: "Faculty Feedback System",
-      image: ".../assets/images/facultyfeedbacksystem.png",
+      image: "./assets/images/facultyfeedbacksystem.png",
       summary:
         "In order to replace the paper based feedback system of our college, I tried to develop a system which could automate the process and this system fulfills all the requirements of the same.",
       preview: "https://github.com/AkshayChavan7/FACULTY-FEEDBACK-SYSTEM",
@@ -496,7 +495,7 @@ export const DETAILS: Detail = {
     },
     {
       projectname: "Student Attendance Management System",
-      image: ".../assets/images/studentattendance.png",
+      image: "./assets/images/studentattendance.png",
       summary:
         "In our engineering college we had a convetional paper based attendance system which I felt is hard to manage. Thus, in order to solve this problem I develop this system which offers a lot more than the conventional system.",
       preview:
@@ -515,7 +514,7 @@ export const DETAILS: Detail = {
     },
     {
       projectname: "Option Pricer",
-      image: ".../assets/images/optionpricer.PNG",
+      image: "./assets/images/optionpricer.PNG",
       summary:
         "An implementation of options pricing methods like Black Scholes, Monte-Carlo and Binomial option pricings which are used for stock market pricing simulations.",
       preview: "https://github.com/AkshayChavan7/Options-Pricer",
@@ -532,7 +531,7 @@ export const DETAILS: Detail = {
   webdevproject: [
     {
       projectname: "Web-Porfolio",
-      image: ".../assets/images/portfolio.png",
+      image: "./assets/images/portfolio.png",
       summary:
         "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
       preview: "https://github.com/AkshayChavan7/AkshayChavan7.github.io",
@@ -559,7 +558,7 @@ export const DETAILS: Detail = {
     },
     {
       projectname: "Google Maps Marker Clusturer",
-      image: ".../assets/images/markerclusturer.PNG",
+      image: "./assets/images/markerclusturer.PNG",
       summary:
         "A clustom marker clusturer implementation in Angular for the google maps geochart javascript API.",
       preview: "https://github.com/AkshayChavan7/Google-Maps-Marker-Clusterer",
@@ -583,7 +582,7 @@ export const DETAILS: Detail = {
     },
     {
       projectname: "News Letter Website",
-      image: ".../assets/images/youthink_website.PNG",
+      image: "./assets/images/youthink_website.PNG",
       summary:
         "This is my very first attempt in the web development. It's a sample website for financial newsletter.",
       preview: "https://github.com/AkshayChavan7/Newsletter-Website",
